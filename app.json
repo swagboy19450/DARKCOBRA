@@ -1,6 +1,6 @@
 {
   "name": "𝔻𝔸ℝ𝕂 ℂ𝕆𝔹ℝ𝔸",
-  "description": "The best and most awaited userbot made by hellboi_atul and modified by Jarvis userbot's owner(@Sppidy) Made with ❤ For Support Join @Dark_cobra_support ",
+  "description": "The best and most awaited userbot made by @dark_cobra_xd Made with ❤ For Support Join @Dark_cobra_userbot ",
   "logo": "https://telegra.ph/file/00f47c54ceda3944dc47c.jpg ",
     "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
-  "success_url": "https://t.me/Dark_cobra_support",
+  "repository": "https://t.me/DARK_COBRA_USERBOT",
+  "website": "https://t.me/DARK_COBRA_USERBOT",
+  "success_url": "https://t.me/DARK_COBRA_USERBOT",
   "stack": "container",
   "env": {
     "ENV": {
@@ -30,7 +30,7 @@
     },
 
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @hellboi_atul.",
+      "description": "Fill your Full name or Username like @dark_cobra_xd.",
       "value": "",
       "required": true
     },
@@ -129,7 +129,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: hellboi-atul/hellboi-atul, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
